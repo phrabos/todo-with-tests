@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div>
+  <form>
+    <input
+      aria-label="todo input"
+      placeholder="new todo"
+      type="text"
+      value=""
+    />
+    <button
+      aria-label="submit todo"
+      type="submit"
+    >
+      add todo
+    </button>
+  </form>
+  <ul>
+    todo list
+    <li>
+      new todo 2
+    </li>
+  </ul>
+</div>
+`;
